@@ -1,0 +1,15 @@
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\bin\Release\net7.0\ShutDownSleep.exe
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\bin\Release\net7.0\ShutDownSleep.deps.json
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\bin\Release\net7.0\ShutDownSleep.runtimeconfig.json
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\bin\Release\net7.0\ShutDownSleep.dll
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\bin\Release\net7.0\ShutDownSleep.pdb
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\obj\Release\net7.0\ShutDownSleep.csproj.AssemblyReference.cache
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\obj\Release\net7.0\ShutDownSleep.GeneratedMSBuildEditorConfig.editorconfig
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\obj\Release\net7.0\ShutDownSleep.AssemblyInfoInputs.cache
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\obj\Release\net7.0\ShutDownSleep.AssemblyInfo.cs
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\obj\Release\net7.0\ShutDownSleep.csproj.CoreCompileInputs.cache
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\obj\Release\net7.0\ShutDownSleep.dll
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\obj\Release\net7.0\refint\ShutDownSleep.dll
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\obj\Release\net7.0\ShutDownSleep.pdb
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\obj\Release\net7.0\ShutDownSleep.genruntimeconfig.cache
+L:\Coding\repos\Private\WebDev\dotNet\ShutDownSleep\obj\Release\net7.0\ref\ShutDownSleep.dll

@@ -1,0 +1,5 @@
+C:\Users\jaege\Desktop\ShutDownSleep.exe
+C:\Users\jaege\Desktop\ShutDownSleep.dll
+C:\Users\jaege\Desktop\ShutDownSleep.deps.json
+C:\Users\jaege\Desktop\ShutDownSleep.runtimeconfig.json
+C:\Users\jaege\Desktop\ShutDownSleep.pdb
