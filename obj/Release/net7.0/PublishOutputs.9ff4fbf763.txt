@@ -1,5 +1,0 @@
-C:\Users\jaege\Desktop\ShutdownTimer\ShutDownSleep.exe
-C:\Users\jaege\Desktop\ShutdownTimer\ShutDownSleep.dll
-C:\Users\jaege\Desktop\ShutdownTimer\ShutDownSleep.deps.json
-C:\Users\jaege\Desktop\ShutdownTimer\ShutDownSleep.runtimeconfig.json
-C:\Users\jaege\Desktop\ShutdownTimer\ShutDownSleep.pdb
